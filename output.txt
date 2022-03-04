@@ -1,0 +1,638 @@
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/kxEhVmlLpo" .
+
+<https://twitter.com/user/status/1475802081156079616> dc:date "2021-12-28T12:13:29"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802081156079616#offset_0_3>,
+        <https://twitter.com/user/status/1475802081156079616#offset_0_6>,
+        <https://twitter.com/user/status/1475802081156079616#offset_124_134>,
+        <https://twitter.com/user/status/1475802081156079616#offset_135_141>,
+        <https://twitter.com/user/status/1475802081156079616#offset_157_162>,
+        <https://twitter.com/user/status/1475802081156079616#offset_15_22>,
+        <https://twitter.com/user/status/1475802081156079616#offset_179_191>,
+        <https://twitter.com/user/status/1475802081156079616#offset_201_210>,
+        <https://twitter.com/user/status/1475802081156079616#offset_257_262>,
+        <https://twitter.com/user/status/1475802081156079616#offset_265_269>,
+        <https://twitter.com/user/status/1475802081156079616#offset_47_50>,
+        <https://twitter.com/user/status/1475802081156079616#offset_51_59>,
+        <https://twitter.com/user/status/1475802081156079616#offset_60_68>,
+        <https://twitter.com/user/status/1475802081156079616#offset_86_93>,
+        <https://twitter.com/user/status/1475802081156079616#offset_8_11> ;
+    :text """Dec 21 "CEO Ed Bastian... asked in a letter to CDC Director Rochelle Walensky seen by Reuters that the agency's recommended quarantine period for anyone who tests positive with a breakthrough COVID-19 infection be reduced to five days from the current 10."
+https://t.co/kxEhVmlLpo""" ;
+    foaf:name "Lauren51569137" .
+
+<https://twitter.com/user/status/1475802081156079616#offset_0_3> dc:reference <https://en.wikipedia.org/wiki/Dec> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_0_6> dc:reference <https://en.wikipedia.org/wiki/Dec%2021> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_124_134> dc:reference <https://en.wikipedia.org/wiki/quarantine> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_135_141> dc:reference <https://en.wikipedia.org/wiki/period> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_157_162> dc:reference <https://en.wikipedia.org/wiki/tests> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_15_22> dc:reference <https://en.wikipedia.org/wiki/Bastian> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_179_191> dc:reference <https://en.wikipedia.org/wiki/breakthrough> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_201_210> dc:reference <https://en.wikipedia.org/wiki/infection> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_257_262> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_265_269> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_47_50> dc:reference <https://en.wikipedia.org/wiki/CDC> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_51_59> dc:reference <https://en.wikipedia.org/wiki/Director> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_60_68> dc:reference <https://en.wikipedia.org/wiki/Rochelle> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_86_93> dc:reference <https://en.wikipedia.org/wiki/Reuters> .
+
+<https://twitter.com/user/status/1475802081156079616#offset_8_11> dc:reference <https://en.wikipedia.org/wiki/CEO> .
+
+"https://t.co/kxEhVmlLpo" :expandsTo "https://www.reuters.com/business/aerospace-defense/delta-ceo-asks-cdc-cut-quarantine-time-breakthrough-covid-cases-2021-12-21/" .
+
+"https://www.reuters.com/business/aerospace-defense/delta-ceo-asks-cdc-cut-quarantine-time-breakthrough-covid-cases-2021-12-21/" dc:title "Delta CEO asks CDC to cut quarantine time for breakthrough COVID cases | Reuters" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802364816900099> dc:date "2021-12-28T12:14:37"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802364816900099#offset_0_5>,
+        <https://twitter.com/user/status/1475802364816900099#offset_123_139>,
+        <https://twitter.com/user/status/1475802364816900099#offset_148_156>,
+        <https://twitter.com/user/status/1475802364816900099#offset_163_168>,
+        <https://twitter.com/user/status/1475802364816900099#offset_197_220>,
+        <https://twitter.com/user/status/1475802364816900099#offset_22_29>,
+        <https://twitter.com/user/status/1475802364816900099#offset_30_38> ;
+    :text """Biden says there's no federal solution to COVID and that this gets solved at a state level.
+
+He should immediately end his unconstitutional federal mandates.
+
+The Texas solution is no mandates and personal responsibility.""" ;
+    foaf:name "46judeds" .
+
+<https://twitter.com/user/status/1475802364816900099#offset_0_5> dc:reference <https://en.wikipedia.org/wiki/Biden> .
+
+<https://twitter.com/user/status/1475802364816900099#offset_123_139> dc:reference <https://en.wikipedia.org/wiki/unconstitutional> .
+
+<https://twitter.com/user/status/1475802364816900099#offset_148_156> dc:reference <https://en.wikipedia.org/wiki/mandates> .
+
+<https://twitter.com/user/status/1475802364816900099#offset_163_168> dc:reference <https://en.wikipedia.org/wiki/Texas> .
+
+<https://twitter.com/user/status/1475802364816900099#offset_197_220> dc:reference <https://en.wikipedia.org/wiki/personal%20responsibility> .
+
+<https://twitter.com/user/status/1475802364816900099#offset_22_29> dc:reference <https://en.wikipedia.org/wiki/federal> .
+
+<https://twitter.com/user/status/1475802364816900099#offset_30_38> dc:reference <https://en.wikipedia.org/wiki/solution> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/xhDlde4JZk" .
+
+<https://twitter.com/user/status/1475802365588647938> dc:date "2021-12-28T12:14:37"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802365588647938#offset_109_115>,
+        <https://twitter.com/user/status/1475802365588647938#offset_116_123>,
+        <https://twitter.com/user/status/1475802365588647938#offset_146_154>,
+        <https://twitter.com/user/status/1475802365588647938#offset_14_23>,
+        <https://twitter.com/user/status/1475802365588647938#offset_171_183>,
+        <https://twitter.com/user/status/1475802365588647938#offset_188_199>,
+        <https://twitter.com/user/status/1475802365588647938#offset_200_209>,
+        <https://twitter.com/user/status/1475802365588647938#offset_241_250>,
+        <https://twitter.com/user/status/1475802365588647938#offset_253_258>,
+        <https://twitter.com/user/status/1475802365588647938#offset_261_265>,
+        <https://twitter.com/user/status/1475802365588647938#offset_65_84> ;
+    :text """Remember how @NewYorker
+mocked me for insisting COVID passes the blood brain barrier?
+
+I think they owe me a public apology.
+
+"Our study provides evidence for substantial neurological and psychiatric morbidity in the 6 months after COVID-19 infection." https://t.co/xhDlde4JZk""" ;
+    foaf:name "trollbete" .
+
+<https://twitter.com/user/status/1475802365588647938#offset_109_115> dc:reference <https://en.wikipedia.org/wiki/public> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_116_123> dc:reference <https://en.wikipedia.org/wiki/apology> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_146_154> dc:reference <https://en.wikipedia.org/wiki/evidence> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_14_23> dc:reference <https://en.wikipedia.org/wiki/NewYorker> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_171_183> dc:reference <https://en.wikipedia.org/wiki/neurological> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_188_199> dc:reference <https://en.wikipedia.org/wiki/psychiatric> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_200_209> dc:reference <https://en.wikipedia.org/wiki/morbidity> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_241_250> dc:reference <https://en.wikipedia.org/wiki/infection> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_253_258> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_261_265> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802365588647938#offset_65_84> dc:reference <https://en.wikipedia.org/wiki/blood%20brain%20barrier> .
+
+"https://t.co/xhDlde4JZk" :expandsTo "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00084-5/fulltext" .
+
+"https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00084-5/fulltext" dc:title "6-month neurological and psychiatric outcomes in 236 379 survivors of COVID-19: a retrospective cohort study using electronic health records - The Lancet Psychiatry" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/ef4pXqhMXK" .
+
+<https://twitter.com/user/status/1475802372462944260> dc:date "2021-12-28T12:14:39"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802372462944260#offset_0_6>,
+        <https://twitter.com/user/status/1475802372462944260#offset_107_111>,
+        <https://twitter.com/user/status/1475802372462944260#offset_182_190>,
+        <https://twitter.com/user/status/1475802372462944260#offset_245_255>,
+        <https://twitter.com/user/status/1475802372462944260#offset_256_261>,
+        <https://twitter.com/user/status/1475802372462944260#offset_264_268>,
+        <https://twitter.com/user/status/1475802372462944260#offset_36_41>,
+        <https://twitter.com/user/status/1475802372462944260#offset_47_54>,
+        <https://twitter.com/user/status/1475802372462944260#offset_55_60>,
+        <https://twitter.com/user/status/1475802372462944260#offset_70_83>,
+        <https://twitter.com/user/status/1475802372462944260#offset_7_14> ;
+    :text "Freest country in the world accepts bribe from airline lobby, revises public policy supposedly designed to save lives as cases reach all-time high in some states. If a \"responsible\" pandemic response ever existed in this country it was entirely accidental https://t.co/ef4pXqhMXK" ;
+    foaf:name "PXKryptonia" .
+
+<https://twitter.com/user/status/1475802372462944260#offset_0_6> dc:reference <https://en.wikipedia.org/wiki/Freest> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_107_111> dc:reference <https://en.wikipedia.org/wiki/save> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_182_190> dc:reference <https://en.wikipedia.org/wiki/pandemic> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_245_255> dc:reference <https://en.wikipedia.org/wiki/accidental> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_256_261> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_264_268> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_36_41> dc:reference <https://en.wikipedia.org/wiki/bribe> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_47_54> dc:reference <https://en.wikipedia.org/wiki/airline> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_55_60> dc:reference <https://en.wikipedia.org/wiki/lobby> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_70_83> dc:reference <https://en.wikipedia.org/wiki/public%20policy> .
+
+<https://twitter.com/user/status/1475802372462944260#offset_7_14> dc:reference <https://en.wikipedia.org/wiki/country> .
+
+"https://t.co/ef4pXqhMXK" :expandsTo "https://www.airlines.org/wp-content/uploads/2021/12/12.23.21-Letter-to-Rochelle-Walensky.pdf" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802378301489160> dc:date "2021-12-28T12:14:40"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802378301489160#offset_105_115>,
+        <https://twitter.com/user/status/1475802378301489160#offset_116_129>,
+        <https://twitter.com/user/status/1475802378301489160#offset_124_129>,
+        <https://twitter.com/user/status/1475802378301489160#offset_12_25>,
+        <https://twitter.com/user/status/1475802378301489160#offset_36_46>,
+        <https://twitter.com/user/status/1475802378301489160#offset_54_67>,
+        <https://twitter.com/user/status/1475802378301489160#offset_61_76> ;
+    :text "Only in the United States could the government run a  public health campaign centered on fears of large, unexpected medical bills." ;
+    foaf:name "DaniNK" .
+
+<https://twitter.com/user/status/1475802378301489160#offset_105_115> dc:reference <https://en.wikipedia.org/wiki/unexpected> .
+
+<https://twitter.com/user/status/1475802378301489160#offset_116_129> dc:reference <https://en.wikipedia.org/wiki/medical%20bills> .
+
+<https://twitter.com/user/status/1475802378301489160#offset_124_129> dc:reference <https://en.wikipedia.org/wiki/bills> .
+
+<https://twitter.com/user/status/1475802378301489160#offset_12_25> dc:reference <https://en.wikipedia.org/wiki/United%20States> .
+
+<https://twitter.com/user/status/1475802378301489160#offset_36_46> dc:reference <https://en.wikipedia.org/wiki/government> .
+
+<https://twitter.com/user/status/1475802378301489160#offset_54_67> dc:reference <https://en.wikipedia.org/wiki/public%20health> .
+
+<https://twitter.com/user/status/1475802378301489160#offset_61_76> dc:reference <https://en.wikipedia.org/wiki/health%20campaign> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802382944591872> dc:date "2021-12-28T12:14:41"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802382944591872#offset_105_115>,
+        <https://twitter.com/user/status/1475802382944591872#offset_38_49>,
+        <https://twitter.com/user/status/1475802382944591872#offset_65_68> ;
+    :text """Rates of COVID-19 Cases and Deaths by Vaccination Status per the CDC: 
+
+Unvaccinated: 451 cases per 100k
+Vaccinated: 134 cases per 100k
+Boosted: 48 cases per 100k
+
+Unvaccinated: 6.1 deaths per 100k
+Vaccinated: 0.5 deaths per 100k
+Boosted: 0.1 deaths per 100k""" ;
+    foaf:name "samuellitten" .
+
+<https://twitter.com/user/status/1475802382944591872#offset_105_115> dc:reference <https://en.wikipedia.org/wiki/Vaccinated> .
+
+<https://twitter.com/user/status/1475802382944591872#offset_38_49> dc:reference <https://en.wikipedia.org/wiki/Vaccination> .
+
+<https://twitter.com/user/status/1475802382944591872#offset_65_68> dc:reference <https://en.wikipedia.org/wiki/CDC> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802385582804996> dc:date "2021-12-28T12:14:42"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802385582804996#offset_100_111>,
+        <https://twitter.com/user/status/1475802385582804996#offset_157_171>,
+        <https://twitter.com/user/status/1475802385582804996#offset_190_198>,
+        <https://twitter.com/user/status/1475802385582804996#offset_43_56>,
+        <https://twitter.com/user/status/1475802385582804996#offset_73_88>,
+        <https://twitter.com/user/status/1475802385582804996#offset_9_14> ;
+    :text "An 8,000 zloty fine for a 21-year-old from Great Britain who presented a forged document confirming vaccination against Covid-19 during an inspection at the Balice airport. The man admitted cheating." ;
+    foaf:name "Lindaukc21" .
+
+<https://twitter.com/user/status/1475802385582804996#offset_100_111> dc:reference <https://en.wikipedia.org/wiki/vaccination> .
+
+<https://twitter.com/user/status/1475802385582804996#offset_157_171> dc:reference <https://en.wikipedia.org/wiki/Balice%20airport> .
+
+<https://twitter.com/user/status/1475802385582804996#offset_190_198> dc:reference <https://en.wikipedia.org/wiki/cheating> .
+
+<https://twitter.com/user/status/1475802385582804996#offset_43_56> dc:reference <https://en.wikipedia.org/wiki/Great%20Britain> .
+
+<https://twitter.com/user/status/1475802385582804996#offset_73_88> dc:reference <https://en.wikipedia.org/wiki/forged%20document> .
+
+<https://twitter.com/user/status/1475802385582804996#offset_9_14> dc:reference <https://en.wikipedia.org/wiki/zloty> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/NtrtwmqUt1" .
+
+<https://twitter.com/user/status/1475802389995302920> dc:date "2021-12-28T12:14:43"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802389995302920#offset_14_21>,
+        <https://twitter.com/user/status/1475802389995302920#offset_28_36>,
+        <https://twitter.com/user/status/1475802389995302920#offset_61_68>,
+        <https://twitter.com/user/status/1475802389995302920#offset_69_76>,
+        <https://twitter.com/user/status/1475802389995302920#offset_78_83>,
+        <https://twitter.com/user/status/1475802389995302920#offset_86_90> ;
+    :text "If there’s no federal Covid solution, why is there a federal vaccine mandate? https://t.co/NtrtwmqUt1" ;
+    foaf:name "ottogo59" .
+
+<https://twitter.com/user/status/1475802389995302920#offset_14_21> dc:reference <https://en.wikipedia.org/wiki/federal> .
+
+<https://twitter.com/user/status/1475802389995302920#offset_28_36> dc:reference <https://en.wikipedia.org/wiki/solution> .
+
+<https://twitter.com/user/status/1475802389995302920#offset_61_68> dc:reference <https://en.wikipedia.org/wiki/vaccine> .
+
+<https://twitter.com/user/status/1475802389995302920#offset_69_76> dc:reference <https://en.wikipedia.org/wiki/mandate> .
+
+<https://twitter.com/user/status/1475802389995302920#offset_78_83> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802389995302920#offset_86_90> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+"https://t.co/NtrtwmqUt1" :expandsTo "https://twitter.com/Breaking911/status/1475555598175555586?s=20" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/QGMX673MWS" .
+
+<https://twitter.com/user/status/1475802390213316616> dc:date "2021-12-28T12:14:43"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802390213316616#offset_108_120>,
+        <https://twitter.com/user/status/1475802390213316616#offset_108_131>,
+        <https://twitter.com/user/status/1475802390213316616#offset_142_151>,
+        <https://twitter.com/user/status/1475802390213316616#offset_18_23>,
+        <https://twitter.com/user/status/1475802390213316616#offset_233_238>,
+        <https://twitter.com/user/status/1475802390213316616#offset_241_245>,
+        <https://twitter.com/user/status/1475802390213316616#offset_40_48>,
+        <https://twitter.com/user/status/1475802390213316616#offset_73_81> ;
+    :text """“While the global radar is, rightly, on humanity overcoming the Covid-19 pandemic, we cannot stand by while human rights violations, and even genocidal actions, are perpetrated against certain peoples.”- @TutuLegacy 
+#TigrayGenocide
+https://t.co/QGMX673MWS""" ;
+    foaf:name "BeyinRebka" .
+
+<https://twitter.com/user/status/1475802390213316616#offset_108_120> dc:reference <https://en.wikipedia.org/wiki/human%20rights> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_108_131> dc:reference <https://en.wikipedia.org/wiki/human%20rights%20violations> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_142_151> dc:reference <https://en.wikipedia.org/wiki/genocidal> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_18_23> dc:reference <https://en.wikipedia.org/wiki/radar> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_233_238> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_241_245> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_40_48> dc:reference <https://en.wikipedia.org/wiki/humanity> .
+
+<https://twitter.com/user/status/1475802390213316616#offset_73_81> dc:reference <https://en.wikipedia.org/wiki/pandemic> .
+
+"https://t.co/QGMX673MWS" :expandsTo "https://www.tutu.org.za/dont-let-covid-19-allow-us-to-overlook-genocide/" .
+
+"https://www.tutu.org.za/dont-let-covid-19-allow-us-to-overlook-genocide/" dc:title "Don’t let Covid-19 allow us to overlook genocide – The Desmond & Leah Tutu Legacy Foundation" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/kxEhVmlLpo" .
+
+<https://twitter.com/user/status/1475802401273692167> dc:date "2021-12-28T12:14:46"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802401273692167#offset_0_3>,
+        <https://twitter.com/user/status/1475802401273692167#offset_0_6>,
+        <https://twitter.com/user/status/1475802401273692167#offset_124_134>,
+        <https://twitter.com/user/status/1475802401273692167#offset_135_141>,
+        <https://twitter.com/user/status/1475802401273692167#offset_157_162>,
+        <https://twitter.com/user/status/1475802401273692167#offset_15_22>,
+        <https://twitter.com/user/status/1475802401273692167#offset_179_191>,
+        <https://twitter.com/user/status/1475802401273692167#offset_201_210>,
+        <https://twitter.com/user/status/1475802401273692167#offset_257_262>,
+        <https://twitter.com/user/status/1475802401273692167#offset_265_269>,
+        <https://twitter.com/user/status/1475802401273692167#offset_47_50>,
+        <https://twitter.com/user/status/1475802401273692167#offset_51_59>,
+        <https://twitter.com/user/status/1475802401273692167#offset_60_68>,
+        <https://twitter.com/user/status/1475802401273692167#offset_86_93>,
+        <https://twitter.com/user/status/1475802401273692167#offset_8_11> ;
+    :text """Dec 21 "CEO Ed Bastian... asked in a letter to CDC Director Rochelle Walensky seen by Reuters that the agency's recommended quarantine period for anyone who tests positive with a breakthrough COVID-19 infection be reduced to five days from the current 10."
+https://t.co/kxEhVmlLpo""" ;
+    foaf:name "cmpsundae" .
+
+<https://twitter.com/user/status/1475802401273692167#offset_0_3> dc:reference <https://en.wikipedia.org/wiki/Dec> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_0_6> dc:reference <https://en.wikipedia.org/wiki/Dec%2021> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_124_134> dc:reference <https://en.wikipedia.org/wiki/quarantine> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_135_141> dc:reference <https://en.wikipedia.org/wiki/period> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_157_162> dc:reference <https://en.wikipedia.org/wiki/tests> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_15_22> dc:reference <https://en.wikipedia.org/wiki/Bastian> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_179_191> dc:reference <https://en.wikipedia.org/wiki/breakthrough> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_201_210> dc:reference <https://en.wikipedia.org/wiki/infection> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_257_262> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_265_269> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_47_50> dc:reference <https://en.wikipedia.org/wiki/CDC> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_51_59> dc:reference <https://en.wikipedia.org/wiki/Director> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_60_68> dc:reference <https://en.wikipedia.org/wiki/Rochelle> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_86_93> dc:reference <https://en.wikipedia.org/wiki/Reuters> .
+
+<https://twitter.com/user/status/1475802401273692167#offset_8_11> dc:reference <https://en.wikipedia.org/wiki/CEO> .
+
+"https://t.co/kxEhVmlLpo" :expandsTo "https://www.reuters.com/business/aerospace-defense/delta-ceo-asks-cdc-cut-quarantine-time-breakthrough-covid-cases-2021-12-21/" .
+
+"https://www.reuters.com/business/aerospace-defense/delta-ceo-asks-cdc-cut-quarantine-time-breakthrough-covid-cases-2021-12-21/" dc:title "Delta CEO asks CDC to cut quarantine time for breakthrough COVID cases | Reuters" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802403043635207> dc:date "2021-12-28T12:14:46"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802403043635207#offset_0_5>,
+        <https://twitter.com/user/status/1475802403043635207#offset_39_43>,
+        <https://twitter.com/user/status/1475802403043635207#offset_6_12>,
+        <https://twitter.com/user/status/1475802403043635207#offset_73_78> ;
+    :text """NATCO PHARMA: CO RECEIVES APPROVAL FOR DRUG FOR TREATMENT OF COVID-19 IN INDIA
+
+@NATCOPharmaLtd""" ;
+    foaf:name "CRKOLTE" .
+
+<https://twitter.com/user/status/1475802403043635207#offset_0_5> dc:reference <https://en.wikipedia.org/wiki/NATCO> .
+
+<https://twitter.com/user/status/1475802403043635207#offset_39_43> dc:reference <https://en.wikipedia.org/wiki/DRUG> .
+
+<https://twitter.com/user/status/1475802403043635207#offset_6_12> dc:reference <https://en.wikipedia.org/wiki/PHARMA> .
+
+<https://twitter.com/user/status/1475802403043635207#offset_73_78> dc:reference <https://en.wikipedia.org/wiki/INDIA> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802405841391621> dc:date "2021-12-28T12:14:47"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802405841391621#offset_119_127>,
+        <https://twitter.com/user/status/1475802405841391621#offset_136_144>,
+        <https://twitter.com/user/status/1475802405841391621#offset_148_151>,
+        <https://twitter.com/user/status/1475802405841391621#offset_17_30>,
+        <https://twitter.com/user/status/1475802405841391621#offset_4_13>,
+        <https://twitter.com/user/status/1475802405841391621#offset_50_61> ;
+    :text "Any physician or public health official promoting vaccination against COVID-19 should be forced to defend the negative efficacy and the evidence of ADE.  See my posts for details." ;
+    foaf:name "lapsed_liberal" .
+
+<https://twitter.com/user/status/1475802405841391621#offset_119_127> dc:reference <https://en.wikipedia.org/wiki/efficacy> .
+
+<https://twitter.com/user/status/1475802405841391621#offset_136_144> dc:reference <https://en.wikipedia.org/wiki/evidence> .
+
+<https://twitter.com/user/status/1475802405841391621#offset_148_151> dc:reference <https://en.wikipedia.org/wiki/ADE> .
+
+<https://twitter.com/user/status/1475802405841391621#offset_17_30> dc:reference <https://en.wikipedia.org/wiki/public%20health> .
+
+<https://twitter.com/user/status/1475802405841391621#offset_4_13> dc:reference <https://en.wikipedia.org/wiki/physician> .
+
+<https://twitter.com/user/status/1475802405841391621#offset_50_61> dc:reference <https://en.wikipedia.org/wiki/vaccination> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802410488578048> dc:date "2021-12-28T12:14:48"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802410488578048#offset_106_108>,
+        <https://twitter.com/user/status/1475802410488578048#offset_27_36>,
+        <https://twitter.com/user/status/1475802410488578048#offset_4_7>,
+        <https://twitter.com/user/status/1475802410488578048#offset_60_73>,
+        <https://twitter.com/user/status/1475802410488578048#offset_96_100> ;
+    :text "The CDC shortened COVID-19 isolation from 10 to 5 days… The United States is the worlds biggest shit show fr" ;
+    foaf:name "__lysssaa_" .
+
+<https://twitter.com/user/status/1475802410488578048#offset_106_108> dc:reference <https://en.wikipedia.org/wiki/fr> .
+
+<https://twitter.com/user/status/1475802410488578048#offset_27_36> dc:reference <https://en.wikipedia.org/wiki/isolation> .
+
+<https://twitter.com/user/status/1475802410488578048#offset_4_7> dc:reference <https://en.wikipedia.org/wiki/CDC> .
+
+<https://twitter.com/user/status/1475802410488578048#offset_60_73> dc:reference <https://en.wikipedia.org/wiki/United%20States> .
+
+<https://twitter.com/user/status/1475802410488578048#offset_96_100> dc:reference <https://en.wikipedia.org/wiki/shit> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802410878746624> dc:date "2021-12-28T12:14:48"^^xsd:dateTime ;
+    :text "Please let this happen" ;
+    foaf:name "weebee1983" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/xaVCpAjV9i" .
+
+<https://twitter.com/user/status/1475802412468350983> dc:date "2021-12-28T12:14:48"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802412468350983#offset_0_4>,
+        <https://twitter.com/user/status/1475802412468350983#offset_114_119>,
+        <https://twitter.com/user/status/1475802412468350983#offset_122_126>,
+        <https://twitter.com/user/status/1475802412468350983#offset_13_25>,
+        <https://twitter.com/user/status/1475802412468350983#offset_42_47> ;
+    :text "Modi onboard Kanpur metro. Heading to the Ganga where the bodies of thousands of Covid-19 victims were abandoned. https://t.co/xaVCpAjV9i" ;
+    foaf:name "whywouldyou_uk" .
+
+<https://twitter.com/user/status/1475802412468350983#offset_0_4> dc:reference <https://en.wikipedia.org/wiki/Modi> .
+
+<https://twitter.com/user/status/1475802412468350983#offset_114_119> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802412468350983#offset_122_126> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802412468350983#offset_13_25> dc:reference <https://en.wikipedia.org/wiki/Kanpur%20metro> .
+
+<https://twitter.com/user/status/1475802412468350983#offset_42_47> dc:reference <https://en.wikipedia.org/wiki/Ganga> .
+
+"https://t.co/xaVCpAjV9i" :expandsTo "https://twitter.com/AITCofficial/status/1475777664036196355/photo/1" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/xaVCpAjV9i" .
+
+<https://twitter.com/user/status/1475802415244873731> dc:date "2021-12-28T12:14:49"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802415244873731#offset_0_4>,
+        <https://twitter.com/user/status/1475802415244873731#offset_114_119>,
+        <https://twitter.com/user/status/1475802415244873731#offset_122_126>,
+        <https://twitter.com/user/status/1475802415244873731#offset_13_25>,
+        <https://twitter.com/user/status/1475802415244873731#offset_42_47> ;
+    :text "Modi onboard Kanpur metro. Heading to the Ganga where the bodies of thousands of Covid-19 victims were abandoned. https://t.co/xaVCpAjV9i" ;
+    foaf:name "agnikannyaM" .
+
+<https://twitter.com/user/status/1475802415244873731#offset_0_4> dc:reference <https://en.wikipedia.org/wiki/Modi> .
+
+<https://twitter.com/user/status/1475802415244873731#offset_114_119> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802415244873731#offset_122_126> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+<https://twitter.com/user/status/1475802415244873731#offset_13_25> dc:reference <https://en.wikipedia.org/wiki/Kanpur%20metro> .
+
+<https://twitter.com/user/status/1475802415244873731#offset_42_47> dc:reference <https://en.wikipedia.org/wiki/Ganga> .
+
+"https://t.co/xaVCpAjV9i" :expandsTo "https://twitter.com/AITCofficial/status/1475777664036196355/photo/1" .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802416956297222> dc:date "2021-12-28T12:14:49"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802416956297222#offset_106_108>,
+        <https://twitter.com/user/status/1475802416956297222#offset_27_36>,
+        <https://twitter.com/user/status/1475802416956297222#offset_4_7>,
+        <https://twitter.com/user/status/1475802416956297222#offset_60_73>,
+        <https://twitter.com/user/status/1475802416956297222#offset_96_100> ;
+    :text "The CDC shortened COVID-19 isolation from 10 to 5 days… The United States is the worlds biggest shit show fr" ;
+    foaf:name "BoriMuva_" .
+
+<https://twitter.com/user/status/1475802416956297222#offset_106_108> dc:reference <https://en.wikipedia.org/wiki/fr> .
+
+<https://twitter.com/user/status/1475802416956297222#offset_27_36> dc:reference <https://en.wikipedia.org/wiki/isolation> .
+
+<https://twitter.com/user/status/1475802416956297222#offset_4_7> dc:reference <https://en.wikipedia.org/wiki/CDC> .
+
+<https://twitter.com/user/status/1475802416956297222#offset_60_73> dc:reference <https://en.wikipedia.org/wiki/United%20States> .
+
+<https://twitter.com/user/status/1475802416956297222#offset_96_100> dc:reference <https://en.wikipedia.org/wiki/shit> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://twitter.com/user/status/1475802418826854400> dc:date "2021-12-28T12:14:50"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802418826854400#offset_103_114>,
+        <https://twitter.com/user/status/1475802418826854400#offset_10_21>,
+        <https://twitter.com/user/status/1475802418826854400#offset_124_129>,
+        <https://twitter.com/user/status/1475802418826854400#offset_134_140>,
+        <https://twitter.com/user/status/1475802418826854400#offset_181_189>,
+        <https://twitter.com/user/status/1475802418826854400#offset_193_198>,
+        <https://twitter.com/user/status/1475802418826854400#offset_65_72> ;
+    :text """Even the #Footballers are trying to help raise #Awareness of the vaccine induced #ThrombosisEmbolisms (blood clots) yet the media are silent! 
+
+More damage has been created by the  vaccines to young people than COVID-19 ever did! #Fact""" ;
+    foaf:name "MrDannyTommo" .
+
+<https://twitter.com/user/status/1475802418826854400#offset_103_114> dc:reference <https://en.wikipedia.org/wiki/blood%20clots> .
+
+<https://twitter.com/user/status/1475802418826854400#offset_10_21> dc:reference <https://en.wikipedia.org/wiki/Footballers> .
+
+<https://twitter.com/user/status/1475802418826854400#offset_124_129> dc:reference <https://en.wikipedia.org/wiki/media> .
+
+<https://twitter.com/user/status/1475802418826854400#offset_134_140> dc:reference <https://en.wikipedia.org/wiki/silent> .
+
+<https://twitter.com/user/status/1475802418826854400#offset_181_189> dc:reference <https://en.wikipedia.org/wiki/vaccines> .
+
+<https://twitter.com/user/status/1475802418826854400#offset_193_198> dc:reference <https://en.wikipedia.org/wiki/young> .
+
+<https://twitter.com/user/status/1475802418826854400#offset_65_72> dc:reference <https://en.wikipedia.org/wiki/vaccine> .
+
+@prefix : <http://www.kde.cs.tsukuba.ac.jp/~aregawi/w3c-email/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:text dc:hasPart "https://t.co/OBQSgZQJbw",
+        "https://t.co/usyFWFEPJn" .
+
+<https://twitter.com/user/status/1475802387377889281> dc:date "2021-12-28T12:14:42"^^xsd:dateTime ;
+    dc:isPartOf <https://twitter.com/user/status/1475802387377889281#offset_0_6>,
+        <https://twitter.com/user/status/1475802387377889281#offset_36_38>,
+        <https://twitter.com/user/status/1475802387377889281#offset_52_57>,
+        <https://twitter.com/user/status/1475802387377889281#offset_58_63>,
+        <https://twitter.com/user/status/1475802387377889281#offset_66_70> ;
+    :text "Doctor asks people not to go to the ER for COVID-19 tests https://t.co/usyFWFEPJn https://t.co/OBQSgZQJbw" ;
+    foaf:name "PunamsCandles" .
+
+<https://twitter.com/user/status/1475802387377889281#offset_0_6> dc:reference <https://en.wikipedia.org/wiki/Doctor> .
+
+<https://twitter.com/user/status/1475802387377889281#offset_36_38> dc:reference <https://en.wikipedia.org/wiki/ER> .
+
+<https://twitter.com/user/status/1475802387377889281#offset_52_57> dc:reference <https://en.wikipedia.org/wiki/tests> .
+
+<https://twitter.com/user/status/1475802387377889281#offset_58_63> dc:reference <https://en.wikipedia.org/wiki/https> .
+
+<https://twitter.com/user/status/1475802387377889281#offset_66_70> dc:reference <https://en.wikipedia.org/wiki/t.co> .
+
+"https://t.co/OBQSgZQJbw" :expandsTo "https://twitter.com/CTVNews/status/1475794938650628098/photo/1" .
+
+"https://t.co/usyFWFEPJn" :expandsTo "https://www.ctvnews.ca/health/coronavirus/doctor-asks-people-not-to-go-to-the-er-for-covid-19-tests-1.5720831?cid=sm%3Atrueanthem%3A%7B%7Bcampaignname%7D%7D%3Atwitterpost%E2%80%8B&taid=61caf8c292a8110001a624d5&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter" .
+
+"https://www.ctvnews.ca/health/coronavirus/doctor-asks-people-not-to-go-to-the-er-for-covid-19-tests-1.5720831?cid=sm%3Atrueanthem%3A%7B%7Bcampaignname%7D%7D%3Atwitterpost%E2%80%8B&taid=61caf8c292a8110001a624d5&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter" dc:title "COVID-19 tests: Don't go to the ER unless it's an emergency | CTV News " .
+
